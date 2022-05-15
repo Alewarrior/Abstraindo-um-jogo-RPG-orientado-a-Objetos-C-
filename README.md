@@ -1,6 +1,4 @@
 # Digital Innovation One (DIO) | RPG com POO em C#
-<!--![DIO logo](https://i.imgur.com/mprXgcQ.jpeg)-->
-<img src="https://i.imgur.com/mprXgcQ.jpeg" alt="DIO logo" width="250" height="250"> <img src="https://i.imgur.com/Yz8jqfx.png" alt="RPG classes" width="500" height="">
 
 Projeto muito bom para quem está iniciando na POO
 
