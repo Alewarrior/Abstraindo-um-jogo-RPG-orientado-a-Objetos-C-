@@ -1,0 +1,15 @@
+C:\Estudos\DIO\Abstraindo-um-jogo-RPG\bin\Debug\net6.0\DIO.rpg.exe
+C:\Estudos\DIO\Abstraindo-um-jogo-RPG\bin\Debug\net6.0\DIO.rpg.deps.json
+C:\Estudos\DIO\Abstraindo-um-jogo-RPG\bin\Debug\net6.0\DIO.rpg.runtimeconfig.json
+C:\Estudos\DIO\Abstraindo-um-jogo-RPG\bin\Debug\net6.0\DIO.rpg.dll
+C:\Estudos\DIO\Abstraindo-um-jogo-RPG\bin\Debug\net6.0\DIO.rpg.pdb
+C:\Estudos\DIO\Abstraindo-um-jogo-RPG\obj\Debug\net6.0\DIO.rpg.csproj.AssemblyReference.cache
+C:\Estudos\DIO\Abstraindo-um-jogo-RPG\obj\Debug\net6.0\DIO.rpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\DIO\Abstraindo-um-jogo-RPG\obj\Debug\net6.0\DIO.rpg.AssemblyInfoInputs.cache
+C:\Estudos\DIO\Abstraindo-um-jogo-RPG\obj\Debug\net6.0\DIO.rpg.AssemblyInfo.cs
+C:\Estudos\DIO\Abstraindo-um-jogo-RPG\obj\Debug\net6.0\DIO.rpg.csproj.CoreCompileInputs.cache
+C:\Estudos\DIO\Abstraindo-um-jogo-RPG\obj\Debug\net6.0\DIO.rpg.dll
+C:\Estudos\DIO\Abstraindo-um-jogo-RPG\obj\Debug\net6.0\refint\DIO.rpg.dll
+C:\Estudos\DIO\Abstraindo-um-jogo-RPG\obj\Debug\net6.0\DIO.rpg.pdb
+C:\Estudos\DIO\Abstraindo-um-jogo-RPG\obj\Debug\net6.0\DIO.rpg.genruntimeconfig.cache
+C:\Estudos\DIO\Abstraindo-um-jogo-RPG\obj\Debug\net6.0\ref\DIO.rpg.dll
